@@ -1,5 +1,4 @@
 def helloworld():
-#   name = input('input your name: ')
-   message = 'Hello ' + name + ' !'
+   message = 'Hello World !'
    print(message)
 helloworld()
